@@ -1,3 +1,4 @@
-# Proseminar
+# C-Trainer Hausarbeit
 
-The Dichotomy of Evaluating Homomorphism-Closed Queries on Probabilistic Graphs
+Elementary theories of the king attack with emphasis on the weakness on h7 and h2
+
